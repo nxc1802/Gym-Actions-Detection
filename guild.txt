@@ -1,0 +1,1 @@
+makedata từ clean_data lưu vào csv_output và xử lý sau đó lưu vào train_data
